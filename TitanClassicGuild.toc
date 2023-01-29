@@ -9,5 +9,5 @@
 ## OptionalDeps:
 ## Dependencies: TitanClassic
 ## Version: 1.0.3
-## X-Date: 2020-10-30
+## X-Date: 2023-01-29
 TitanClassicGuild.xml
