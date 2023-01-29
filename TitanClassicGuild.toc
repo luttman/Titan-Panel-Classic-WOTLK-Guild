@@ -3,11 +3,11 @@
 ## Title-esES: Titan Panel Classic [Hermandad]
 ## Notes: A simple guild list for the Titan Panel Classic AddOn.
 ## Notes-esES: Una lista de la hermandad para el Titan Panel Classic.
-## Author: kernighan
+## Author: LuttmaN
 ## SavedVariables:
 ## SavedVariablesPerCharacter: TitanGuildVar 
 ## OptionalDeps:
 ## Dependencies: TitanClassic
-## Version: 1.0.0.4
+## Version: 1.0.1
 ## X-Date: 2020-10-30
 TitanClassicGuild.xml
