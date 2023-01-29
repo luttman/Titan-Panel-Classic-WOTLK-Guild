@@ -8,6 +8,6 @@
 ## SavedVariablesPerCharacter: TitanGuildVar 
 ## OptionalDeps:
 ## Dependencies: TitanClassic
-## Version: 1.0.1
+## Version: 1.0.3
 ## X-Date: 2020-10-30
 TitanClassicGuild.xml
