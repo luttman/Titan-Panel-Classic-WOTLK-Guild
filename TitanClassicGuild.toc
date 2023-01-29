@@ -1,0 +1,13 @@
+## Interface: 30401
+## Title: Titan Panel Classic [|cffeda55fGuild|r] |cff00aa001.0.0.4|r
+## Title-esES: Titan Panel Classic [Hermandad]
+## Notes: A simple guild list for the Titan Panel Classic AddOn.
+## Notes-esES: Una lista de la hermandad para el Titan Panel Classic.
+## Author: kernighan
+## SavedVariables:
+## SavedVariablesPerCharacter: TitanGuildVar 
+## OptionalDeps:
+## Dependencies: TitanClassic
+## Version: 1.0.0.4
+## X-Date: 2020-10-30
+TitanClassicGuild.xml
