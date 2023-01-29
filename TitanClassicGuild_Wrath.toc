@@ -1,5 +1,5 @@
 ## Interface: 30401
-## Title: Titan Panel Classic [|cffeda55fGuild|r] |cff00aa001.0.0.4|r
+## Title: Titan Panel Classic [|cffeda55fGuild|r] |cff00aa001.0.3|r
 ## Title-esES: Titan Panel Classic [Hermandad]
 ## Notes: A simple guild list for the Titan Panel Classic AddOn.
 ## Notes-esES: Una lista de la hermandad para el Titan Panel Classic.
